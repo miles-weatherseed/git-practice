@@ -1,0 +1,17 @@
+This is the master.
+
+Intro:
+
+Hello everyone.
+
+This is another line in your project.
+
+Now adding a third line...
+
+And a fourth.
+
+Surely a fifth would be too much?
+
+Let alone a sixth.
+
+This is a pointless change.
